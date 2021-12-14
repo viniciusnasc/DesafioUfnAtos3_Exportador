@@ -1,0 +1,5 @@
+Id-CodEAN-Nome-preco-estoque
+1-1435346515413--554-8
+2-21433435654-pen drive-66-4
+3-215806556-massa de modelar-0,55-133
+4-3451134-porta pregos-0,15-55
